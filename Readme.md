@@ -6,9 +6,9 @@ Welcome to the **Rock Paper Scissors Game**! This is a simple and interactive we
 
 ---
 
-## Preview
+## Previews
 
-![Game Screenshot](images/pre1.JPG)
+![Preview](pre1.JPG)
 
 ---
 
