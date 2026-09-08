@@ -59,3 +59,5 @@ You can run this project in either of the following ways:
 ## Conclusion
 
 This Rock Paper Scissors Game is a simple yet engaging project that demonstrates the fundamentals of JavaScript, DOM manipulation, and responsive web design. It is an excellent project for beginners who want to practice their front-end development skills. Feel free to explore the code, customize the design, or add new features to make the game even more exciting.
+
+Learning git.
